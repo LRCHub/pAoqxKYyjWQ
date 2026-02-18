@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Quik Stop",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-18T13:22:32.798740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Quik Stop (Paused)",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/01_Quik_Stop_(Paused)_J._Cole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Quik Stop",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_Quik_Stop_J.Cole.txt"
+    }
+  ]
+}
